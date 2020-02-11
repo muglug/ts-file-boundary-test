@@ -1,3 +1,3 @@
-export function greeter(person: string) {
+export function greeter(string) {
     return "Hello, " + person;
 }
